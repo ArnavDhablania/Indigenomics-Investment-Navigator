@@ -1,7 +1,7 @@
 # Indigenomics-Investment-Navigator
 
 EY x Databricks Hackathon Project
-This project was built to identify and bridge funding gaps in the Indigenous economy. We moved beyond standard financial spreadsheets to look at the human side of economic data, aligning our insights with the path toward a $100 billion Indigenous economy.
+This project was built to identify and bridge funding gaps in the Indigenous economy. We moved beyond standard financial spreadsheets to look at the human side of economic data, aligning our insights with the path toward a successful Indigenous economy.
 
 **The Concept**
 Investment often misses the mark because it doesn't account for what communities are actually asking for. We built a "Navigator" that cross-references ongoing Indigenous projects with real-world qualitative data to find out where capital is most needed but currently lacking.
