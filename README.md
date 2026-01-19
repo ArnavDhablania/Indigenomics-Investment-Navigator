@@ -16,13 +16,14 @@ What made our approach unique was the data source. We didn't just look at market
 **Technical Workflow (Databricks)**
 Even though the portal is now closed, our architecture focused on turning "messy" text into investment signals:
 
-Natural Language Processing: Used PySpark to ingest and process text data from 100s of event transcripts.
+- Natural Language Processing: Used PySpark to ingest and process text data from 100s of event transcripts.
 
-Data Integration: Combined qualitative transcript insights with current Indigenomics project data using a Unified Lakehouse (Delta Lake).
+- Data Integration: Combined qualitative transcript insights with current Indigenomics project data using a Unified Lakehouse (Delta Lake).
 
-Gap Analysis: Created a scoring system to highlight projects that align with the most frequently mentioned economic "gaps."
+- Gap Analysis: Created a scoring system to highlight projects that align with the most frequently mentioned economic "gaps."
 
 **Impact & Vision**
+
 Community-Led Growth: The navigator ensures that investment is driven by the community’s own words, not just external financial trends.
 
 **Strategic Funding:** We provided a way for organizations like EY to see exactly where a dollar of investment would have the highest social and economic ROI.
